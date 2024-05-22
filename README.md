@@ -1,4 +1,4 @@
-Flutter project for challenge
+Flutter project for Google Solution Challenge
 
 ## Getting Started
 
