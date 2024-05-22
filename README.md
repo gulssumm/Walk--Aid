@@ -1,6 +1,4 @@
-# project_3
-
-A new Flutter project.
+Flutter project for challenge
 
 ## Getting Started
 
